@@ -89,17 +89,19 @@ We have benchmarked these providers (and counting):
 | Provider | Type | Review |
 |----------|------|--------|
 | Vultr | High Frequency, Cloud Compute | [Review](https://vpsrankings.com/en/rankings) |
-| RackNerd | Budget VPS | [Review](https://vpsrankings.com/en/rankings) |
-| Hetzner | Cloud, Dedicated | [Review](https://vpsrankings.com/en/rankings) |
-| DigitalOcean | Basic, Premium Droplets | [Review](https://vpsrankings.com/en/rankings) |
-| Hostinger | Cloud VPS | [Review](https://vpsrankings.com/en/rankings) |
+| **RackNerd** | Budget VPS | [RackNerd Budget VPS Review & Speedtest](https://vpsrankings.com/articles/racknerd-black-friday-review) |
+| **Hetzner** | Cloud, Dedicated | [Hetzner Performance & 2026 Beginner Guide](https://vpsrankings.com/articles/owl5zo35-2026年新手vps完全指南哪家值得选) |
+| **DigitalOcean** | Basic, Premium Droplets | [DigitalOcean vs $5~$10 Budget VPS Comparison](https://vpsrankings.com/articles/m2am74qh-不同预算的vps选择-51020级别对比) |
+| **Hostinger** | Cloud VPS | [Hostinger Cloud VPS Review & Performance Breakdown](https://vpsrankings.com/articles/m2am74qh-不同预算的vps选择-51020级别对比) |
 | BandwagonHost | CN2 GIA Optimized | [Review](https://vpsrankings.com/en/rankings) |
 | Contabo | VPS S/M/L/XL | [Review](https://vpsrankings.com/en/rankings) |
 | Cloudways | Managed Cloud | [Review](https://vpsrankings.com/en/rankings) |
 | Kamatera | Custom Config Cloud | [Review](https://vpsrankings.com/en/rankings) |
-| DMIT | Premium Asia Routes | [Review](https://vpsrankings.com/en/rankings) |
+| **DMIT** | Premium Asia Routes | [DMIT CN2 GIA & Asia Routes In-Depth Review](https://vpsrankings.com/articles/c5cjkbgg-dmit-vps-评测高性能优化线路海外服务器推荐) |
 
 > 💡 Want your provider tested? [Open an issue](https://github.com/cash602-cmd/vps-bench/issues/new)!
+
+> 💡 **Budget Planning**: Trying to decide between $5, $10, and $20 budget tiers? Read our comprehensive breakdown: [Budget VPS Comparison — $5 / $10 / $20 Plans Tested](https://vpsrankings.com/articles/m2am74qh-不同预算的vps选择-51020级别对比).
 
 ## Why Another Benchmark Script?
 
@@ -143,6 +145,7 @@ Ideas for future tests:
 
 - 🏆 [VPS Rankings](https://vpsrankings.com/rankings) — Score-based VPS leaderboard
 - 📊 [Benchmark Database](https://vpsrankings.com/benchmarks) — All published test results
+- 💰 [Budget VPS Comparison Guide](https://vpsrankings.com/articles/m2am74qh-不同预算的vps选择-51020级别对比) — $5 / $10 / $20 Tiered Comparison
 - 💰 [VPS Deals](https://vpsrankings.com/deals) — Current discounts and promos
 - 🧮 [VPS Calculator](https://vpsrankings.com/vps-calculator) — Find the right plan for your workload
 - 📖 [Beginner Guide](https://vpsrankings.com/guide) — From zero to deployed
